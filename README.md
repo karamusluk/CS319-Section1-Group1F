@@ -7,4 +7,6 @@ The game will be composed of unit squares which come together to become letters 
 
 # Members
 
-*
+* Irmak Akkuzuluoğlu
+* Mustafa Culban
+* Irmak Türköz
