@@ -10,3 +10,9 @@ The game will be composed of unit squares which come together to become letters 
 * Irmak Akkuzuluoğlu
 * Mustafa Culban
 * Irmak Türköz
+
+# Course Details
+CS 319 – Object Oriented Software Engineering 
+Term Project 
+Instructor: Bora Güngören 
+Section 1 – Team 1F
