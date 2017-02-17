@@ -10,6 +10,7 @@ Moreover, there is also a mod called "Arcade Mode" which keeps the same idea; ho
 
 * Irmak Akkuzuluoğlu
 * Mustafa Culban
+* Yasin Erdoğdu
 * Irmak Türköz
 
 # Course Details
