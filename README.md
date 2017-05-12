@@ -12,7 +12,7 @@ Moreover, there is also a mod called "Arcade Mode" which keeps the same idea; ho
 * Mustafa Culban
 * Yasin Erdoğdu
 * Irmak Türköz
-
+* Tibet Timur
 # Course Details
 CS 319 – Object Oriented Software Engineering   
 Term Project   
